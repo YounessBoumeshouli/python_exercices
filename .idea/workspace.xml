@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b64bac8f-55d6-4547-9134-8cff2f898d23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonProject/Listes_avance.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Classes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Classes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Fichiers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Fichiers.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/Listes_avance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/Listes_avance.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/functions.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
