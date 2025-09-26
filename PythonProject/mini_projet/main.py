@@ -5,6 +5,7 @@ from tkcalendar import DateEntry
 
 tc = taskController
 data = {}
+
 def add_task():
     task = entry.get().strip()
     print(task)
@@ -113,3 +114,9 @@ for col in range(3):
     root.grid_columnconfigure(col, weight=1)
 root.grid_rowconfigure(2, weight=1)
 
+existed_tasks = selectTasks()
+print("hhh")
+print(existed_tasks)
+for task in existed_tasks :
+        print(task)
+        todo_list.insert(tk.END, task)

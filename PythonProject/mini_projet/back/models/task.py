@@ -1,7 +1,7 @@
 from ..crud import *
 from ..connexion import *
 class Task:
- def __init__(self,title,description,deadline,start,priority = None,created_at = None,modified_at = None,id = None,status = None):
+ def __init__(self,title ,description,deadline ,start ,priority ,created_at = None,modified_at = None,id = None,status = None):
      self._id = id
      self.title = title
      self.description = description
@@ -24,3 +24,5 @@ class Task:
 
  def delete(self,name_table):
      execute(delete(name_table, self.id()))
+ def select(name_table):
+     return  execute(select(name_table))

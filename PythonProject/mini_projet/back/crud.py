@@ -9,3 +9,6 @@ def update(name_table , id,data):
 
 def delete(name_table , id):
      return  name_table.delete().where(name_table.c.id == id)
+def select(name_table):
+     print("dd");
+     return execute(name_table.select())

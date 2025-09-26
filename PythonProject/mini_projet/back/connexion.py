@@ -11,4 +11,7 @@ metadata.create_all(engine,checkfirst=True)
 
 def execute(query):
     with engine.begin() as connection:
-        connection.execute(query)
+        results =  connection.execute(query).mappings().fetchall()
+        for row in results :
+            print(row)
+        return results

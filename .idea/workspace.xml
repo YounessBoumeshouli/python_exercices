@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b64bac8f-55d6-4547-9134-8cff2f898d23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonProject/mini_projet/Controllers/taches_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProject/mini_projet/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProject/mini_projet/back/enums/priority_enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProject/mini_projet/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/mini_projet/Controllers/taches_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/mini_projet/Controllers/taches_controller.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PythonProject/mini_projet/back/connexion.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/mini_projet/back/connexion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PythonProject/mini_projet/back/crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/mini_projet/back/crud.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/mini_projet/back/enums/task_enum.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/mini_projet/back/enums/task_enum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/mini_projet/back/integrations/create_tasks_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/mini_projet/back/migrations/create_tasks_table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/mini_projet/back/integrations/create_user_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/mini_projet/back/migrations/create_user_table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/mini_projet/back/models/taches.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/mini_projet/back/models/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/mini_projet/back/models/todolist.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/mini_projet/back/models/todolist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/mini_projet/mini_projet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/mini_projet/mini_projet.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/mini_projet/back/models/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/mini_projet/back/models/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProject/mini_projet/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject/mini_projet/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
