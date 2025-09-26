@@ -3,7 +3,7 @@ from ..crud import *
 class Todolist :
  name_table = "todolist"
 
- def __init(self, title, status, created_at, modified_at):
+ def __init__(self, title, status, created_at, modified_at):
      self._id = None
      self.title = title
      self.status = status
@@ -12,7 +12,7 @@ class Todolist :
 
  @property
  def id(self):
-     return self.id
+     return self._id
 
  def create(self):
      create(self.name_table, {self.title, self.status})
